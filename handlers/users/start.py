@@ -20,16 +20,11 @@ async def get_accounts(message: types.Message, state: FSMContext):
 async def get_accounts(message: types.Message, state: FSMContext):
     if message.text == 'mypassword':
         await message.answer('Принято.',reply_markup=main_menu)
+        await message.answer('Нажмите "Добавить запись"')
         await Texts.Q1.set()
 
 
-@dp.message_handler(state=Texts.Q1)
-async def asd(message: types.Message):
-    await message.answer('Нажмите "Добавить запись"')
-    await Texts.Q2.set()
-
-
-@dp.message_handler(text='Добавить запись')
+@dp.message_handler(text='Добавить запись',state='*')
 async def get_address(message: types.Message, state: FSMContext):
     await message.answer('Укажите номер телефона клиента')
     await Texts.Q3.set()
@@ -57,6 +52,7 @@ async def get_address(message: types.Message, state: FSMContext):
     await state.update_data(city=city)
     await message.answer('Укажите исчтоник рекламы')
     await Texts.Q7.set()
+
 
 @dp.message_handler(state=Texts.Q7)
 async def get_address(message: types.Message, state: FSMContext):
