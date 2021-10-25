@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "graceful-medley-330115",
+  "private_key_id": "d9ba60a8fb47a34f7e45d013c2a9704112328744",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDFIUtANeLS0G2I\nc98oDQsb+enBqXlvwrGQjxmSmgJBV9VTMR98hW2wHtg5YHCLskNbSGMTci8cR3zn\nO/GiHdpb9bJy8BrQCAOUTjaergxqapm2LKavsgaT1/WFFw5UpvmoVCM5CaKTufj3\noNLXEHtC3LZm8yhtO1b6ngcmqoZ0vN0h1E3eQnlPNE1SL4M4CGnZMgtIKhAujTNV\nepiSL8sOLpdbfLiyzVdVTdgoB6gilhlKS8adPF8611dqDOld30MicI5gvO5nBQaC\nEKv/Pd3V8l1lbxIC3MHMZmI9jKm2Ktopswwy1cTA6QJFAhso32DGEZeVUms0gUi9\nDA+a60+VAgMBAAECggEAA1F3/KOLkbnhcMpmh2bkziVASpAUPmMxbaStrQU7pCbw\nLSomr11oRxkrJu1ufON/dRdnAjT0rGNbAQzGGKZWU8rzJIfRzmOmz8XF70OFwPrS\nDeTQL3qYgr+VX0FP7pva7aWbltezLWJphEg9lFIviPoXIJeCPDMjV9egzi/7pcEK\niaLbPvzkN3BCjBIhReZxDyCOHLVBY9zbzBCuRBWXEO8lU87lzvwNlMU8uz98MKsn\nSDl9XBOB5LuoIn0O+Zu2+H8QceMEU4DU04Mw+vzaIk31txd+wqyQvoXDJ+tqG9Hc\n9khEyP62/gnJFu6KIHHjJFIHhl9rvUaDb7SIk5Q5dwKBgQDpkdKYyNNmFsy0nFiv\ngTJAn00dAc0da3SyFDPK4bGry9XInii1mm6k+EgTMSeS8fQlprDjDDW3tvxLdVGG\nPDrjfBNRPlrKRXLx7kUjvVcCyHDnhK+iq76xCVhF2nJSXPuczyv5QMMqLuKW+NGM\n22T53vhhHRt8Ud34T+APUbBs4wKBgQDYD6AJqrGDOnXBZgwLIXTmJSMbFB1DkZIb\nAw0ZPZRTgWr2qhemTH/TyDzEWVWOysGZvpOs8KBmj16dxYBz4NqAoXG2W6ItwcVd\nyiGqo1QC5FUEO/nBN8qLCWf+D6lIexxC7Y+bGmmNNPtxquDoRJRLjIRYEEO/bBzw\n/9ceO/izJwKBgGMmD6vjtDll/Ee/BraZtWdROD7UAOo4LzVY9hNtcypmQL4ExWsx\nvz4wVwgumYn7Q5SoCfaXvEXcW4T8rDq7XpQqm1ili4zJpl2ks5zURxdbVvIwlQ4M\nscodGWetr1HfPr/2AcixASfq9yz3Opz8lQSs7errnDtN1VgPMCHQn3/ZAoGANjFF\nHOeZeqbRHl8wKiKMJaWu9n3HEUmT8f6D7I7Lg150q8XiBK4vablRtJYLpbMpeByb\nAcehE9hmDQCaxXXimFzmHq1BMmTl0i5+30P0MH2A7Xz1mgcaYGFNmiXneeyXHBpl\n6KtpSie94bbQjrGU2JY4I7aAp6TAZZpmJIk6SgUCgYBR5xqxuf2XcZlvZztCTjBg\n7e0WVi/uORnvoHbIJneQrS9QnwVN+8zXPcFm5LI3hqDFRSgRTNExZ9bsKNQ+wHM7\nejn/cBczWTg1DvKbphWsqRMtQ6yYt3/B4A4zoZXpG51JCGe/sHWuI49JFYd85Bb5\nFoWySHabkBPaZbh/pDtYRg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "tg-bot-sheets@graceful-medley-330115.iam.gserviceaccount.com",
+  "client_id": "104045270954432140856",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tg-bot-sheets%40graceful-medley-330115.iam.gserviceaccount.com"
+}
